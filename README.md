@@ -1,4 +1,4 @@
-# LangGraph Tutorial 04: Clinical Documentation & Discharge Summary Assistant
+# LangGraph-based Clinical Documentation & Discharge Summary Assistant
 
 A [LangGraph](https://langchain-ai.github.io/langgraph/)-powered assistant that
 turns a clinician's free-text visit/discharge note into (1) a structured,
