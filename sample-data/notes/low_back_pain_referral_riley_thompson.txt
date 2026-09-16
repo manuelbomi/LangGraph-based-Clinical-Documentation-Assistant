@@ -1,0 +1,54 @@
+CEDAR HOLLOW FAMILY HEALTH CLINIC
+123 Willowbrook Lane, Suite 4, Cedar Hollow, OH 44070
+Outpatient Visit Note (Synthetic / Fictitious Demo Document)
+
+Patient: Riley Thompson
+MRN: MRN-100715
+DOB: 1962-11-03
+Date of Visit: 2026-09-05
+Provider: Priya Anand, MD
+
+CHIEF COMPLAINT:
+Low back pain for 2 weeks after yard work.
+
+HISTORY OF PRESENT ILLNESS:
+Patient reports onset of dull, aching low back pain two weeks ago after
+lifting bags of mulch. Pain is localized to the lumbar region without
+radiation down the legs. No numbness, tingling, or weakness in the lower
+extremities. No bowel or bladder changes. Pain is worse with bending and
+prolonged sitting, somewhat relieved by rest and heat. Over-the-counter
+ibuprofen has provided partial relief.
+
+VITALS:
+BP 132/84, HR 76, Temp 98.0 F.
+
+PHYSICAL EXAM:
+Lumbar paraspinal tenderness without midline vertebral tenderness.
+Straight leg raise negative bilaterally. Normal strength, sensation, and
+reflexes in bilateral lower extremities. Gait normal.
+
+ASSESSMENT / PLAN:
+1. Acute low back pain, mechanical/musculoskeletal in nature, without
+   red-flag features for underlying serious pathology.
+   - Continue ibuprofen 400 mg by mouth every 8 hours as needed with food
+     for up to 10 days.
+   - Apply heat to the affected area and remain as active as tolerated.
+   - Referral to physical therapy for a structured strengthening and
+     mobility program.
+
+MEDICATIONS:
+- Ibuprofen 400 mg by mouth every 8 hours as needed (as above).
+- Losartan 100 mg by mouth once daily (continued, for hypertension).
+- Metoprolol succinate 50 mg by mouth once daily (continued).
+
+ALLERGIES:
+Penicillin - rash.
+
+FOLLOW-UP / INSTRUCTIONS:
+- Referral to physical therapy, 2-3 sessions per week for 4 weeks.
+- Return to clinic if pain worsens, or if numbness, weakness, or loss of
+  bowel/bladder control develops.
+- Follow up with this clinic in 4 weeks to reassess; sooner if not
+  improving.
+
+Electronically signed: Priya Anand, MD

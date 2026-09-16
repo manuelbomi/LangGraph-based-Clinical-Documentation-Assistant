@@ -1,0 +1,63 @@
+CEDAR HOLLOW MEDICAL CENTER
+900 Ridgeview Parkway, Cedar Hollow, OH 44070
+Hospital Discharge Summary (Synthetic / Fictitious Demo Document)
+
+Patient: Riley Thompson
+MRN: MRN-100715
+DOB: 1962-11-03
+Admission Date: 2026-08-20
+Discharge Date: 2026-08-24
+Attending Provider: Marcus Delgado, MD
+
+CHIEF COMPLAINT:
+Shortness of breath and lower extremity swelling.
+
+HISTORY OF PRESENT ILLNESS:
+Patient with a known history of heart failure with reduced ejection
+fraction, type 2 diabetes mellitus, and essential hypertension presented
+to the emergency department with 5 days of progressively worsening
+dyspnea on exertion, orthopnea requiring 3 pillows, and bilateral lower
+extremity edema. Reported dietary sodium indiscretion around a family
+gathering the prior week. No chest pain, no fever.
+
+HOSPITAL COURSE:
+Admitted for acute decompensated heart failure exacerbation. Treated with
+intravenous furosemide with good diuretic response and symptomatic
+improvement. Blood glucose was monitored and managed with adjustments to
+home diabetes regimen during the admission. Blood pressure remained
+elevated on admission and was managed with adjustment of home
+antihypertensive regimen. Patient was weaned to oral diuretics by day 3
+with stable weights and improved oxygenation. Ambulated independently
+prior to discharge.
+
+DISCHARGE DIAGNOSES (PROBLEM LIST):
+1. Acute on chronic systolic heart failure exacerbation, now improved
+2. Type 2 diabetes mellitus, suboptimally controlled during admission
+3. Essential hypertension, uncontrolled on admission, improved with
+   medication adjustment
+4. Chronic kidney disease, stage 3, stable
+
+DISCHARGE MEDICATIONS:
+- Furosemide 40 mg by mouth once daily (increased from 20 mg prior to
+  admission)
+- Metformin 1000 mg by mouth twice daily (unchanged)
+- Empagliflozin 10 mg by mouth once daily (newly added this admission)
+- Losartan 100 mg by mouth once daily (increased from 50 mg)
+- Metoprolol succinate 50 mg by mouth once daily (unchanged)
+- Atorvastatin 40 mg by mouth at bedtime (unchanged)
+
+ALLERGIES:
+Penicillin - rash.
+
+FOLLOW-UP / INSTRUCTIONS:
+- Weigh yourself daily each morning; call the heart failure clinic if
+  weight increases more than 3 pounds in 2 days.
+- Follow a low-sodium (less than 2000 mg/day) diet.
+- Follow-up with primary care (Cedar Hollow Family Health Clinic) within
+  7 days of discharge.
+- Follow-up with Cardiology (Dr. Nadia Farouk) in 2 weeks.
+- Recheck basic metabolic panel and kidney function 1 week after
+  discharge given the diuretic dose increase.
+- Referral placed to outpatient diabetes education program.
+
+Electronically signed: Marcus Delgado, MD

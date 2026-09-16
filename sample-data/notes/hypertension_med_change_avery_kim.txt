@@ -1,0 +1,51 @@
+CEDAR HOLLOW FAMILY HEALTH CLINIC
+123 Willowbrook Lane, Suite 4, Cedar Hollow, OH 44070
+Outpatient Visit Note (Synthetic / Fictitious Demo Document)
+
+Patient: Avery Kim
+MRN: MRN-100482
+DOB: 1987-04-12
+Date of Visit: 2026-09-02
+Provider: Priya Anand, MD
+
+CHIEF COMPLAINT:
+Follow-up for hypertension; new dry cough since starting blood pressure
+medication.
+
+HISTORY OF PRESENT ILLNESS:
+Patient was started on lisinopril 10 mg daily six weeks ago for essential
+hypertension. Home blood pressure log shows improved control (averaging
+128/82). However, patient reports a persistent dry, non-productive cough
+that started approximately 3 weeks ago, without associated wheeze, fever,
+or chest pain. Cough is bothersome but not limiting daily activity. No
+signs of angioedema.
+
+VITALS:
+BP 126/80, HR 74, RR 14, Temp 98.2 F, Weight 168 lb.
+
+ASSESSMENT / PLAN:
+1. Essential (primary) hypertension, currently well controlled on
+   lisinopril, but with a likely ACE-inhibitor-induced dry cough.
+   - Discontinue lisinopril 10 mg daily.
+   - Start losartan 50 mg by mouth once daily in its place.
+   - Continue home blood pressure monitoring twice weekly.
+2. Cough is expected to resolve over 1-4 weeks after stopping the ACE
+   inhibitor.
+
+MEDICATIONS AT END OF VISIT:
+- Losartan 50 mg, one tablet by mouth once daily (new, replacing
+  lisinopril).
+- Lisinopril 10 mg daily - discontinued today.
+- Atorvastatin 10 mg by mouth at bedtime (continued, unchanged, for
+  hyperlipidemia).
+
+ALLERGIES:
+No known drug allergies.
+
+FOLLOW-UP / INSTRUCTIONS:
+- Recheck blood pressure and basic metabolic panel in 4 weeks.
+- Call the clinic if cough does not improve within 4 weeks of stopping
+  lisinopril, or sooner if swelling of the lips/tongue/face occurs.
+- Continue low-sodium diet and current exercise routine.
+
+Electronically signed: Priya Anand, MD

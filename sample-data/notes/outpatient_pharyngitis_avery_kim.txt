@@ -1,0 +1,44 @@
+CEDAR HOLLOW FAMILY HEALTH CLINIC
+123 Willowbrook Lane, Suite 4, Cedar Hollow, OH 44070
+Outpatient Visit Note (Synthetic / Fictitious Demo Document)
+
+Patient: Avery Kim
+MRN: MRN-100482
+DOB: 1987-04-12
+Date of Visit: 2026-08-11
+Provider: Priya Anand, MD
+
+CHIEF COMPLAINT:
+Sore throat and low-grade fever for 3 days.
+
+HISTORY OF PRESENT ILLNESS:
+Patient is a 39-year-old with no significant past medical history presenting
+with a 3-day history of sore throat, pain with swallowing, and subjective
+fevers up to 100.9F at home. Denies cough, rhinorrhea, or shortness of
+breath. No sick contacts identified. No recent antibiotic use. Tolerating
+oral intake with some discomfort.
+
+VITALS:
+Temp 100.4 F, HR 88, BP 118/76, RR 16, SpO2 98% on room air.
+
+PHYSICAL EXAM:
+Oropharynx erythematous with tonsillar exudate, no uvular deviation.
+Tender anterior cervical lymphadenopathy bilaterally. Lungs clear to
+auscultation bilaterally. No respiratory distress.
+
+ASSESSMENT / PLAN:
+1. Acute pharyngitis, likely streptococcal given exudate and tender
+   adenopathy. Rapid strep test positive in office.
+   - Start amoxicillin 500 mg by mouth twice daily for 10 days.
+   - Supportive care: warm salt water gargles, acetaminophen or ibuprofen
+     for pain/fever as needed.
+2. No known drug allergies reported by patient today.
+
+FOLLOW-UP / INSTRUCTIONS:
+- Return to clinic or seek urgent care if symptoms worsen, if difficulty
+  breathing or swallowing develops, or if fever persists beyond 3 days on
+  antibiotics.
+- Complete the full 10-day course of amoxicillin even if feeling better.
+- Follow up with this clinic in 2 weeks if symptoms have not fully resolved.
+
+Electronically signed: Priya Anand, MD

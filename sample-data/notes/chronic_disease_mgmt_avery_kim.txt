@@ -1,0 +1,58 @@
+CEDAR HOLLOW FAMILY HEALTH CLINIC
+123 Willowbrook Lane, Suite 4, Cedar Hollow, OH 44070
+Outpatient Visit Note (Synthetic / Fictitious Demo Document)
+
+Patient: Avery Kim
+MRN: MRN-100482
+DOB: 1987-04-12
+Date of Visit: 2026-09-20
+Provider: Priya Anand, MD
+
+CHIEF COMPLAINT:
+Annual chronic disease management visit.
+
+HISTORY OF PRESENT ILLNESS:
+Patient returns for routine follow-up of hyperlipidemia and obesity, and
+for review of recent labs showing impaired fasting glucose. Reports
+ongoing efforts with diet and a walking routine 3 times per week. No
+polyuria, polydipsia, or unexplained weight loss. Blood pressure well
+controlled on losartan. No new complaints today.
+
+VITALS:
+BP 122/78, HR 70, Temp 98.4 F, Weight 214 lb, Height 67 in, BMI 33.5.
+
+LABS REVIEWED TODAY:
+Fasting glucose 112 mg/dL, Hemoglobin A1c 5.9%, LDL 148 mg/dL.
+
+ASSESSMENT / PLAN:
+1. Hyperlipidemia - LDL still above goal despite diet changes.
+   - Continue atorvastatin 10 mg by mouth at bedtime.
+   - Recheck lipid panel in 3 months.
+2. Prediabetes (impaired fasting glucose) - A1c 5.9%, not yet diabetic
+   range.
+   - Continue lifestyle modification: diet and exercise counseling
+     provided.
+   - Recheck A1c in 6 months.
+3. Obesity (BMI 33.5).
+   - Discussed weight management options and referral to nutrition
+     counseling.
+   - Referral placed to registered dietitian for structured counseling.
+4. Essential hypertension - well controlled on losartan.
+   - Continue losartan 50 mg by mouth once daily.
+
+MEDICATIONS:
+- Atorvastatin 10 mg by mouth at bedtime (continued).
+- Losartan 50 mg by mouth once daily (continued).
+
+ALLERGIES:
+No known drug allergies.
+
+FOLLOW-UP / INSTRUCTIONS:
+- Referral to registered dietitian for nutrition counseling.
+- Recheck lipid panel in 3 months and hemoglobin A1c in 6 months.
+- Continue current exercise routine; consider increasing to 5 days per
+  week as tolerated.
+- Return sooner if symptoms of high blood sugar develop (increased
+  thirst, frequent urination, unexplained weight loss).
+
+Electronically signed: Priya Anand, MD
